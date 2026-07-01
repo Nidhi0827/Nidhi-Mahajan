@@ -6,18 +6,23 @@ DevOps & Cloud Engineer · AWS · Azure · GCP · Kubernetes · Terraform · Doc
 
 I bring a rare QA-to-DevOps perspective: automated test gates, observability stacks, and zero-defect controls built directly into release pipelines.
 
+
+
 📊 Impact at a Glance
 
          Metric                                      Result
-Deployment cycle reduction                          73% (45 min → 12 min)
+         
+Deployment cycle reduction                                      73% (45 min → 12 min)
 
-Environment provisioning                            2 days → 20 minutes (Terraform + Ansible)
+Environment provisioning                                        2 days → 20 minutes (Terraform + Ansible)
 
-Escaped-defect rate                                 < 2% across 6 consecutive releases
+Escaped-defect rate                                             < 2% across 6 consecutive releases
 
-Infrastructure MTTD                                 < 5 minutes (Prometheus + Grafana)
+Infrastructure MTTD                                             < 5 minutes (Prometheus + Grafana)
 
-Staging uptime                                       99.9% (EKS microservices platform)
+Staging uptime                                                  99.9% (EKS microservices platform)
+
+
 
 
 
@@ -39,6 +44,8 @@ Cloud-Native Microservices on AWS EKS · AWS Kubernetes Terraform Jenkins Promet
 
 
 
+
+
 eLearning-Azure-CI/CD
 
 Azure DevOps CI/CD Pipeline · Azure DevOps App Service Artifact Management
@@ -51,6 +58,9 @@ Azure DevOps CI/CD Pipeline · Azure DevOps App Service Artifact Management
 
 
 
+
+
+
 Azure-ha-load-balancer
 
 High-Availability Architecture · Azure RBAC VMs Failover Testing
@@ -60,6 +70,9 @@ High-Availability Architecture · Azure RBAC VMs Failover Testing
 -RBAC with least-privilege IAM policies
 
 -0 ms perceived downtime during simulated node failure — validated 99.95% availability SLA
+
+
+
 
 
 🛠️ Tech Stack
@@ -83,12 +96,20 @@ Testing & QA
 JUnit · TestNG · JMeter (Performance) · Postman (API) · 80%+ Code Coverage
 
 
+
+
+
 📜 Certifications
 
 
 ✅ DevOps, AWS, Azure & GCP — Comprehensive Course Completion
+
 ✅ Manual & Automation Testing — Industry Certification
+
 ✅ Cloud-Native DevOps Implementation — Project Experience Certificate
+
+
+
 
 
 💼 Experience
