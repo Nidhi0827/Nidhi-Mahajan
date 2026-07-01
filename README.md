@@ -1,6 +1,7 @@
 Hi, I'm Nidhi-Mahajan
 
 DevOps & Cloud Engineer · AWS · Azure · GCP · Kubernetes · Terraform · Docker · Ansible · Prometheus · Grafana
+
 3+ years bridging QA and platform engineering — I build pipelines that stay green.
 
 I bring a rare QA-to-DevOps perspective: automated test gates, observability stacks, and zero-defect controls built directly into release pipelines.
@@ -9,15 +10,20 @@ I bring a rare QA-to-DevOps perspective: automated test gates, observability sta
 
          Metric                  Result
 Deployment cycle reduction     73% (45 min → 12 min)
+
 Environment provisioning       2 days → 20 minutes (Terraform + Ansible)
+
 Escaped-defect rate            < 2% across 6 consecutive releases
+
 Infrastructure MTTD            < 5 minutes (Prometheus + Grafana)
+
 Staging uptime                 99.9% (EKS microservices platform)
 
 
 🚀 Featured Projects
 
 fundme-devops-platform
+
 Cloud-Native Microservices on AWS EKS · AWS Kubernetes Terraform Jenkins Prometheus
 
 -3 Java Spring Boot microservices with REST APIs on AWS EKS + RDS MySQL
@@ -27,6 +33,7 @@ Cloud-Native Microservices on AWS EKS · AWS Kubernetes Terraform Jenkins Promet
 -Automated JUnit/TestNG test gates in-pipeline — 80%+ code coverage maintained
 
 elearning-azure-cicd
+
 Azure DevOps CI/CD Pipeline · Azure DevOps App Service Artifact Management
 
 -Full CI/CD pipeline with automated commit triggers 100% of manual release effort eliminated
@@ -35,6 +42,7 @@ Azure DevOps CI/CD Pipeline · Azure DevOps App Service Artifact Management
 
 
 azure-ha-load-balancer
+
 High-Availability Architecture · Azure RBAC VMs Failover Testing
 
 -HA topology using Azure Load Balancer with health probes across multi-VM backend pools
