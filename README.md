@@ -1,5 +1,7 @@
 Hi, I'm Nidhi-Mahajan
+
 DevOps & Cloud Engineer · AWS · Azure · GCP · Kubernetes · Terraform · Docker · Ansible · Prometheus · Grafana
+
 3+ years bridging QA and platform engineering — I build pipelines that stay green.
 
 I bring a rare QA-to-DevOps perspective: automated test gates, observability stacks, and zero-defect controls built directly into release pipelines.
